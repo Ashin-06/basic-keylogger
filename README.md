@@ -18,7 +18,7 @@ A simple keylogger written in Python using the `pynput` library. This script is 
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/Ashin-06/basic-keylogger.git](https://github.com/Ashin-06/basic-keylogger.git)
+    git clone https://github.com/Ashin-06/basic-keylogger.git
     cd basic-keylogger
     ```
 
